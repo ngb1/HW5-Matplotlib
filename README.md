@@ -45,3 +45,7 @@ After completing the Pyber data analysis I could determine the following trends 
 - Allocation of drivers could improve! : Analysing the total fares and total rides by city type, it can be observed there's a ratio of 65% Urban, 30% Suburban and 5% Rural for both total amount of fares and number of rides, which seems healthy. However the number of drivers is considerably higher in the Urban areas, a quality survey could be recommended per city type to confirm the current number of drivers is enough or if we will need to recruit more drivers for Suburban and Rural areas.
 
 
+## Authors
+
+* **Nicolas Gomez Bustamante** - *Initial work* - [PurpleBooth](https://github.com/nbg1)
+
